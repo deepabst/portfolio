@@ -5,7 +5,6 @@ export function NavBar() {
     <nav className="flex gap-6">
       <ClientNavLink href="#about">About</ClientNavLink>
       <ClientNavLink href="#projects">Projects</ClientNavLink>
-      <ClientNavLink href="#contact">Contact</ClientNavLink>
     </nav>
   );
 }
