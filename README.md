@@ -1,10 +1,25 @@
 # portfolio
 
-# portfolio
-
 ## Purpose
 
 This project is a personal portfolio website for showcasing my projects, skills, and experience as a Frontend Engineer. The website serves as a platform to highlight my expertise in front-end development, experimentation, and software quality. It also provides a way for potential employers, collaborators, and clients to get in touch with me through various social media links and a contact form.
+
+## Development Environment
+
+### Local Setup
+
+- Node.js (v18+ recommended)
+- pnpm v9.x package manager
+- Next.js 14.2.16 framework
+- TypeScript 5.7.3
+
+### Development Commands
+
+- `pnpm install`: Install dependencies
+- `pnpm dev`: Start development server
+- `pnpm build`: Build for production
+- `pnpm start`: Run production build locally
+- `pnpm lint`: Run ESLint
 
 ## Technology Stack
 

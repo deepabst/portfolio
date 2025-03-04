@@ -69,7 +69,8 @@ export default function Page() {
               <ProjectCard
                 title="Devil's Advocate"
                 description="An AI chatbot to encourage critical thinking and debate."
-                image="/placeholder.svg?height=400&width=600"
+                staticImage="/devils_advocate.png?height=400&width=600"
+                image="/devils-advocate.gif?height=400&width=600"
                 link="https://github.com"
                 tags={["Next.js", "Eliza", "OpenAI"]}
                 ribbonText="Under Construction"
@@ -84,7 +85,9 @@ export default function Page() {
               <ProjectCard
                 title="Galaxy Generator"
                 description="Become the creator of your own galaxy."
-                image="/galaxy_generator.png?height=400&width=600"
+                staticImage="/galaxy-generator.png?height=400&width=600"
+                image="/galaxy-generator.gif?height=400&width=600"
+                liveSiteUrl="https://galaxy-generator-steel.vercel.app/"
                 link="https://github.com"
                 tags={["Three.js", "Vercel"]}
               />
