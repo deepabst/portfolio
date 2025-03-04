@@ -94,7 +94,9 @@ export default function Page() {
               <ProjectCard
                 title="Physics Generator"
                 description="Fun with gravity, boxes and spheres."
-                image="/physics.png?height=400&width=600"
+                staticImage="/physics-generator.png?height=400&width=600"
+                image="/physics-generator.gif?height=400&width=600"
+                liveSiteUrl="https://22-physics-orpin.vercel.app/"
                 link="https://github.com"
                 tags={["Three.js", "Vercel"]}
               />
