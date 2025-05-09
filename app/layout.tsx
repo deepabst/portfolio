@@ -57,7 +57,7 @@ export default function RootLayout({
               <div className="flex justify-center">
                 <div className="h-48 w-48 rounded-full border-4 border-white overflow-hidden shadow-xl">
                   <img
-                    src="/dee_headshot.jpg"
+                    src="/dee_headshot_2.jpg"
                     alt="Dee Pabst Headshot"
                     className="w-full h-full object-cover"
                     width={192}

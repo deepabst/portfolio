@@ -4,17 +4,19 @@ const technologies = [
   {
     category: "Frontend",
     skills: [
+      "JavaScript",
+      "TypeScript",
+      "HTML",
+      "CSS",
       "React",
       "Next.js",
-      "TypeScript",
       "TailwindCSS",
-      "GraphQL",
       "Three.js",
     ],
   },
   {
     category: "Backend",
-    skills: ["Node.js", "Express", "Ruby on Rails", "MongoDB"],
+    skills: ["Node.js", "Express.js", "Ruby on Rails", "MongoDB"],
   },
   {
     category: "DevOps",
@@ -22,7 +24,7 @@ const technologies = [
   },
   {
     category: "Tools",
-    skills: ["VS Code", "Postman", "Figma", "Jest", "GitHub", "Vercel"],
+    skills: ["Cursor", "VS Code", "Postman", "Figma", "Jest", "Vercel"],
   },
 ];
 

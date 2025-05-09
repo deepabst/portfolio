@@ -20,17 +20,18 @@ export default function Page() {
                   DEE PABST
                 </h1>
                 <h2 className="text-1xl font-bold tracking-tighter sm:text-2xl md:text-3xl lg:text-4xl/none">
-                  Frontend Engineer
+                  Software Engineer
                 </h2>
                 <p className="mx-auto max-w-[700px] text-gray-500 md:text-xl dark:text-gray-400">
-                  Charismatic Engineer with expertise in front-end dev,
-                  experimentation, and software quality. I thrive on solving
-                  problems and delighting users. My secret sauce? Effective
-                  collaboration with designers, product managers, and teammates
-                  to go from ideation to launch. From crafting A/B tests that
-                  optimize conversion rates to leading initiatives to improve
-                  software reliability, I bring a blend of technical skill,
-                  innovation, and cross-functional teamwork to every project.
+                  Charismatic team player with expertise in front-end and full
+                  stack development, experimentation, and software quality. I
+                  thrive on solving problems and delighting users. My secret
+                  sauce? Effective collaboration with designers, product
+                  managers, and teammates to go from ideation to launch. From
+                  crafting A/B tests that optimize conversion rates to leading
+                  initiatives to improve software reliability, I bring a blend
+                  of technical skill, innovation, and cross-functional teamwork
+                  to every project.
                 </p>
               </div>
               <div className="space-x-4">
@@ -66,15 +67,6 @@ export default function Page() {
               Projects
             </h2>
             <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
-              <ProjectCard
-                title="Devil's Advocate"
-                description="An AI chatbot to encourage critical thinking and debate."
-                staticImage="/devils_advocate.png?height=400&width=600"
-                image="/devils-advocate.gif?height=400&width=600"
-                link="https://github.com"
-                tags={["Next.js", "Eliza", "OpenAI"]}
-                ribbonText="Under Construction"
-              />
               <ProjectCard
                 title="Top Prioridee"
                 description="A real-time 3d task management application."
